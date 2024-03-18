@@ -7,15 +7,6 @@
 !go.mod
 !*.svg
 !*.jpg
-GraalVM
-Figur 13: Truffle
-"på toppen" av
-GraalVM.
-Truffle
-(runtime compilation
-using
-Futamura Projections)
-IS-105 Seminar II Side 42 av 43
 !README.md
 !LICENSE
 !Dockerfile-base
